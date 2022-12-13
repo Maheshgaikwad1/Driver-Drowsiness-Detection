@@ -1,4 +1,0 @@
-dlib
-imutils
-numpy
-opencv-python-headless
